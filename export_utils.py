@@ -18,8 +18,8 @@ def run_export_flow() -> None:
     """
     print("I wonder what I should export… 0_o")
     print("Option 1: Full_Dictionary.md")
-    print("Option 2: Number_English.cvs")
-    print("Option 3: Number_Chinese.cvs")
+    print("Option 2: Number_English.md")
+    print("Option 3: Number_Chinese.md")
     print("Option 4: Timestamp_Chinese.txt")
     print("Option 5: Timestamp_English.txt")
     print("Option 6: CHI.srt")
@@ -30,7 +30,6 @@ def run_export_flow() -> None:
         choice = input().strip()
         if choice in {str(i) for i in range(1, 8)}:
             _handle_export_choice(int(choice))
-            plate = shared_state.get_plate() or "unknown"
             print("Export finished >< See you next time~~")
             return
         attempts += 1
@@ -58,8 +57,8 @@ def _handle_export_choice(n: int) -> None:
         path.write_text(content, encoding="utf-8")
 
     elif n == 2:
-        # Number_English.cvs (markdown table Number | English)
-        path = EXPORT_DIR / f"{plate}_Number_English.cvs"
+        # Number_English.md (markdown table Number | English)
+        path = EXPORT_DIR / f"{plate}_Number_English.md"
         content = _make_markdown_table(
             headers=["Number", "English"],
             rows=[
@@ -69,8 +68,8 @@ def _handle_export_choice(n: int) -> None:
         path.write_text(content, encoding="utf-8")
 
     elif n == 3:
-        # Number_Chinese.cvs (markdown table Number | Chinese)
-        path = EXPORT_DIR / f"{plate}_Number_Chinese.cvs"
+        # Number_Chinese.md (markdown table Number | Chinese)
+        path = EXPORT_DIR / f"{plate}_Number_Chinese.md"
         content = _make_markdown_table(
             headers=["Number", "Chinese"],
             rows=[
@@ -125,13 +124,10 @@ def _make_markdown_table(headers: List[str], rows: List[Tuple[str, ...]]) -> str
     Produce a GitHub-flavored markdown table string for given headers and rows.
     Empty entries are kept as empty cells.
     """
-    # Header
     header_line = "| " + " | ".join(headers) + " |"
     sep_line = "| " + " | ".join("---" for _ in headers) + " |"
-    # Rows
     row_lines = []
     for row in rows:
-        # ensure all cells are strings; keep empty as ''
         cells = ["" if (cell is None) else str(cell) for cell in row]
         row_lines.append("| " + " | ".join(cells) + " |")
     return "\n".join([header_line, sep_line, *row_lines]) + "\n"
@@ -154,7 +150,7 @@ def _make_srt(data: Dict[int, shared_state.Row], text_key: str) -> str:
         if i - 1 < len(items) - 1:
             end_dt = starts[i] - timedelta(milliseconds=1)
         else:
-            end_dt = start_dt + timedelta(seconds=2)  # fallback for last subtitle
+            end_dt = start_dt + timedelta(seconds=2)
 
         start_str = _fmt_srt_time(start_dt)
         end_str = _fmt_srt_time(end_dt)
@@ -162,9 +158,8 @@ def _make_srt(data: Dict[int, shared_state.Row], text_key: str) -> str:
 
         lines.append(str(i))
         lines.append(f"{start_str} --> {end_str}")
-        # SRT requires at least one line (can be empty); keep as is to reflect dictionary
         lines.append(text)
-        lines.append("")  # blank line between cues
+        lines.append("")
 
     return "\n".join(lines).rstrip() + ("\n" if lines else "")
 
@@ -176,10 +171,8 @@ def _parse_timestamp(bracketed_ts: str) -> datetime:
     s = bracketed_ts.strip()
     if s.startswith("[") and s.endswith("]"):
         s = s[1:-1]
-    # Normalize to dot milliseconds; input already normalized like HH:MM:SS.mmm
     if "," in s:
         s = s.replace(",", ".")
-    # Use arbitrary date since only deltas matter
     return datetime.strptime(s, "%H:%M:%S.%f")
 
 
