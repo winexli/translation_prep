@@ -1,8 +1,4 @@
-# translation_prep
-Here’s a full `README.md` you can copy and paste directly:
-
-```markdown
-# Subtitle Management System
+# translation_prep / Subtitle Management System
 
 A modular Python-based CLI system for managing subtitles.  
 It helps you take raw transcript text (with timestamps), structure it, attach bilingual translations (English + Chinese), persist across sessions, and export into different formats.
@@ -49,12 +45,13 @@ translation\_prep/
 
 ---
 
+
+
 ## Usage
 
 1. **Run the program**:
    ```bash
-   python3 main.py
-````
+   python3 main.py```
 
 2. **Plate number**:
    Enter a string (e.g., `ABC123`).
