@@ -4,6 +4,7 @@ import re
 from typing import List, Optional, Tuple
 
 import shared_state
+import export_utils  # NEW
 
 
 # Matches: [HH:MM:SS] or [HH:MM:SS.mmm] with '.' or ',' for millis
@@ -189,12 +190,14 @@ def run_add_flow() -> None:
         data = shared_state.get_data()
         if not data:
             print("Btw, your current dictionary is still empty.")
+            return
         else:
             last_index = max(data.keys())
             last_row = data[last_index]
-            print("Btw, here are the last row of your current dictionary.")
+            print("Btw, here is the last row of your current dictionary.")
             print(last_row)
-        return
+            export_utils.run_export_flow()  # NEW: proceed to export
+            return
     elif first == "yes":
         # Proceed into the normal menu flow
         pass
@@ -223,6 +226,7 @@ def run_add_flow() -> None:
             else:
                 last_index = max(data.keys())
                 last_row = data[last_index]
-                print("Btw, here are the last row of your current dictionary:")
+                print("Btw, here is the last row of your current dictionary.")
                 print(last_row)
+                export_utils.run_export_flow()  # NEW: proceed to export
             return

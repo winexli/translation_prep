@@ -1,0 +1,911 @@
+{
+  "plate": "1DCL001",
+  "data": {
+    "1": {
+      "number": "1",
+      "timestamp": "[00:00:00.000]",
+      "en": "Dostoevsky's Notes from Underground",
+      "zh": ""
+    },
+    "2": {
+      "number": "2",
+      "timestamp": "[00:00:01.940]",
+      "en": "and The Underground man is like an original incel",
+      "zh": ""
+    },
+    "3": {
+      "number": "3",
+      "timestamp": "[00:00:07.430]",
+      "en": "because he takes so much pride in his suffering.",
+      "zh": ""
+    },
+    "4": {
+      "number": "4",
+      "timestamp": "[00:00:11.440]",
+      "en": "To 10% of women in America aged 18 to 24 are on OnlyFans.",
+      "zh": ""
+    },
+    "5": {
+      "number": "5",
+      "timestamp": "[00:00:17.010]",
+      "en": "The incel thing?",
+      "zh": ""
+    },
+    "6": {
+      "number": "6",
+      "timestamp": "[00:00:18.250]",
+      "en": "Ooh, it's really at home in analytic philosophy.",
+      "zh": ""
+    },
+    "7": {
+      "number": "7",
+      "timestamp": "[00:00:21.180]",
+      "en": "It appeals to that combative instinct in a young man's intellect,",
+      "zh": ""
+    },
+    "8": {
+      "number": "8",
+      "timestamp": "[00:00:27.660]",
+      "en": "and it makes him feel like he's on a side.",
+      "zh": ""
+    },
+    "9": {
+      "number": "9",
+      "timestamp": "[00:00:30.430]",
+      "en": "The incels take it as a badge of honor.",
+      "zh": ""
+    },
+    "10": {
+      "number": "10",
+      "timestamp": "[00:00:33.080]",
+      "en": "Most people who are in religious studies departments are some sort of atheist.",
+      "zh": ""
+    },
+    "11": {
+      "number": "11",
+      "timestamp": "[00:00:37.430]",
+      "en": "I think there's a reason that the Buddha had to abandon his family,",
+      "zh": ""
+    },
+    "12": {
+      "number": "12",
+      "timestamp": "[00:00:40.360]",
+      "en": "that Jesus didn't have a family to begin with.",
+      "zh": ""
+    },
+    "13": {
+      "number": "13",
+      "timestamp": "[00:00:42.520]",
+      "en": "The great entrepreneurs like Elon and Steve Jobs have terrible private lives,",
+      "zh": ""
+    },
+    "14": {
+      "number": "14",
+      "timestamp": "[00:00:46.060]",
+      "en": "and a lot of the great philosophers, most of them aren't married.",
+      "zh": ""
+    },
+    "15": {
+      "number": "15",
+      "timestamp": "[00:00:48.610]",
+      "en": "Bronze Age pervert or other incel type voices.",
+      "zh": ""
+    },
+    "16": {
+      "number": "16",
+      "timestamp": "[00:00:53.750]",
+      "en": "They're wrong about that because they have such a small understanding of Nietzsche.",
+      "zh": ""
+    },
+    "17": {
+      "number": "17",
+      "timestamp": "[00:00:57.460]",
+      "en": "Nietzsche always comes across a little bit as insecure.",
+      "zh": ""
+    },
+    "18": {
+      "number": "18",
+      "timestamp": "[00:01:02.320]",
+      "en": "He's still going through a puberty, right?",
+      "zh": ""
+    },
+    "19": {
+      "number": "19",
+      "timestamp": "[00:01:04.450]",
+      "en": "Yeah, exactly.",
+      "zh": ""
+    },
+    "20": {
+      "number": "20",
+      "timestamp": "[00:01:04.950]",
+      "en": "He's still showing the tough guy ish.",
+      "zh": ""
+    },
+    "21": {
+      "number": "21",
+      "timestamp": "[00:01:09.610]",
+      "en": "Something terrible has happened in modern dating.",
+      "zh": ""
+    },
+    "22": {
+      "number": "22",
+      "timestamp": "[00:01:12.070]",
+      "en": "5% to 10% of young American women are on OnlyFans.",
+      "zh": ""
+    },
+    "23": {
+      "number": "23",
+      "timestamp": "[00:01:15.510]",
+      "en": "Birth rates have plummeted below subsistence in developed nations.",
+      "zh": ""
+    },
+    "24": {
+      "number": "24",
+      "timestamp": "[00:01:19.250]",
+      "en": "And an unbelievable number of young men identify as Incels;",
+      "zh": ""
+    },
+    "25": {
+      "number": "25",
+      "timestamp": "[00:01:23.160]",
+      "en": "men who proudly advertise that they can’t get any girls.",
+      "zh": ""
+    },
+    "26": {
+      "number": "26",
+      "timestamp": "[00:01:26.750]",
+      "en": "My guest today is Notre Dame’s David O’Connor.",
+      "zh": ""
+    },
+    "27": {
+      "number": "27",
+      "timestamp": "[00:01:29.270]",
+      "en": "He’s going to diagnose what has gone wrong,",
+      "zh": ""
+    },
+    "28": {
+      "number": "28",
+      "timestamp": "[00:01:31.290]",
+      "en": "show us how incels and OnlyFans are two sides of the same coin,",
+      "zh": ""
+    },
+    "29": {
+      "number": "29",
+      "timestamp": "[00:01:35.090]",
+      "en": "and what you can do today to secure a happy love life.",
+      "zh": ""
+    },
+    "30": {
+      "number": "30",
+      "timestamp": "[00:01:38.430]",
+      "en": "In this interview, Professor O’ Connor will rescue classical resources",
+      "zh": ""
+    },
+    "31": {
+      "number": "31",
+      "timestamp": "[00:01:42.060]",
+      "en": "from the platonic and Catholic traditions, to help you survive modern dating.",
+      "zh": ""
+    },
+    "32": {
+      "number": "32",
+      "timestamp": "[00:01:47.900]",
+      "en": "What are young men doing wrong in dating today?",
+      "zh": ""
+    },
+    "33": {
+      "number": "33",
+      "timestamp": "[00:01:49.910]",
+      "en": "A lot of young men are actually fearful about",
+      "zh": ""
+    },
+    "34": {
+      "number": "34",
+      "timestamp": "[00:01:54.450]",
+      "en": "letting women know that they’re attracted to them.",
+      "zh": ""
+    },
+    "35": {
+      "number": "35",
+      "timestamp": "[00:01:57.870]",
+      "en": "And it’s as if they’ve lost confidence in their own erotic agency somehow.",
+      "zh": ""
+    },
+    "36": {
+      "number": "36",
+      "timestamp": "[00:02:04.680]",
+      "en": "It’s important that they just are bold enough",
+      "zh": ""
+    },
+    "37": {
+      "number": "37",
+      "timestamp": "[00:02:09.800]",
+      "en": "to let a woman see that they’re interested in her as a woman.",
+      "zh": ""
+    },
+    "38": {
+      "number": "38",
+      "timestamp": "[00:02:16.490]",
+      "en": "I’ve told students over and over again,",
+      "zh": ""
+    },
+    "39": {
+      "number": "39",
+      "timestamp": "[00:02:19.290]",
+      "en": "I do not believe in this notion that, “Well, we should be friends first.”",
+      "zh": ""
+    },
+    "40": {
+      "number": "40",
+      "timestamp": "[00:02:23.680]",
+      "en": "I think that’s completely wrong.",
+      "zh": ""
+    },
+    "41": {
+      "number": "41",
+      "timestamp": "[00:02:25.670]",
+      "en": "I don’t think that friendship and an erotic connection, are somehow continuous things.",
+      "zh": ""
+    },
+    "42": {
+      "number": "42",
+      "timestamp": "[00:02:33.610]",
+      "en": "I think they’re both valuable things.",
+      "zh": ""
+    },
+    "43": {
+      "number": "43",
+      "timestamp": "[00:02:35.910]",
+      "en": "But I think they’re quite different things.",
+      "zh": ""
+    },
+    "44": {
+      "number": "44",
+      "timestamp": "[00:02:38.270]",
+      "en": "And I think that one of the things that’s wrong,",
+      "zh": ""
+    },
+    "45": {
+      "number": "45",
+      "timestamp": "[00:02:43.790]",
+      "en": "and it can’t be wrong just with men, it must be wrong with couples,",
+      "zh": ""
+    },
+    "46": {
+      "number": "46",
+      "timestamp": "[00:02:47.790]",
+      "en": "that’d be the first thing I want to emphasize.",
+      "zh": ""
+    },
+    "47": {
+      "number": "47",
+      "timestamp": "[00:02:50.580]",
+      "en": "I think that young men and women of that age,",
+      "zh": ""
+    },
+    "48": {
+      "number": "48",
+      "timestamp": "[00:02:55.720]",
+      "en": "when their erotic sensitivity,",
+      "zh": ""
+    },
+    "49": {
+      "number": "49",
+      "timestamp": "[00:03:00.180]",
+      "en": "and therefore, their erotic power, is at its greatest,",
+      "zh": ""
+    },
+    "50": {
+      "number": "50",
+      "timestamp": "[00:03:03.710]",
+      "en": "I think that seeing themselves as couples,",
+      "zh": ""
+    },
+    "51": {
+      "number": "51",
+      "timestamp": "[00:03:09.810]",
+      "en": "rather than seeing themselves as just men interested in women and women interested in men,",
+      "zh": ""
+    },
+    "52": {
+      "number": "52",
+      "timestamp": "[00:03:14.970]",
+      "en": "but really seeing themselves as couples,",
+      "zh": ""
+    },
+    "53": {
+      "number": "53",
+      "timestamp": "[00:03:17.260]",
+      "en": "I think that’s very diminished in contemporary…",
+      "zh": ""
+    },
+    "54": {
+      "number": "54",
+      "timestamp": "[00:03:20.220]",
+      "en": "At least the kind of contemporary elite culture",
+      "zh": ""
+    },
+    "55": {
+      "number": "55",
+      "timestamp": "[00:03:23.270]",
+      "en": "that the young people I’m around the most are a part of.",
+      "zh": ""
+    },
+    "56": {
+      "number": "56",
+      "timestamp": "[00:03:27.410]",
+      "en": "So that’s one of the first things I would tell a young man",
+      "zh": ""
+    },
+    "57": {
+      "number": "57",
+      "timestamp": "[00:03:33.490]",
+      "en": "that, have confidence in your own erotic agency",
+      "zh": ""
+    },
+    "58": {
+      "number": "58",
+      "timestamp": "[00:03:38.370]",
+      "en": "which makes you want to be part of a couple.",
+      "zh": ""
+    },
+    "59": {
+      "number": "59",
+      "timestamp": "[00:03:42.910]",
+      "en": "It’s not that, somehow, you’re on this individual search for something",
+      "zh": ""
+    },
+    "60": {
+      "number": "60",
+      "timestamp": "[00:03:47.210]",
+      "en": "and that thing happens to be a woman.",
+      "zh": ""
+    },
+    "61": {
+      "number": "61",
+      "timestamp": "[00:03:49.480]",
+      "en": "It’s that you are looking for somebody else",
+      "zh": ""
+    },
+    "62": {
+      "number": "62",
+      "timestamp": "[00:03:53.630]",
+      "en": "who also feels a certain sense of incompleteness about themselves,",
+      "zh": ""
+    },
+    "63": {
+      "number": "63",
+      "timestamp": "[00:03:58.290]",
+      "en": "and somebody who wants to live as a couple.",
+      "zh": ""
+    },
+    "64": {
+      "number": "64",
+      "timestamp": "[00:04:03.070]",
+      "en": "I’ve talked to lots of young women,",
+      "zh": ""
+    },
+    "65": {
+      "number": "65",
+      "timestamp": "[00:04:05.310]",
+      "en": "and I’m saying young… 22 year olds are not young,",
+      "zh": ""
+    },
+    "66": {
+      "number": "66",
+      "timestamp": "[00:04:11.910]",
+      "en": "from the point of view of falling in love",
+      "zh": ""
+    },
+    "67": {
+      "number": "67",
+      "timestamp": "[00:04:14.800]",
+      "en": "and using their erotic potency to create a couple.",
+      "zh": ""
+    },
+    "68": {
+      "number": "68",
+      "timestamp": "[00:04:20.890]",
+      "en": "They’re not young. They’re not too young.",
+      "zh": ""
+    },
+    "69": {
+      "number": "69",
+      "timestamp": "[00:04:23.340]",
+      "en": "Right.",
+      "zh": ""
+    },
+    "70": {
+      "number": "70",
+      "timestamp": "[00:04:24.330]",
+      "en": "How old is still young? Is 30 young? It’s not.",
+      "zh": ""
+    },
+    "71": {
+      "number": "71",
+      "timestamp": "[00:04:28.750]",
+      "en": "So to me, that’s part of where the energy is,",
+      "zh": ""
+    },
+    "72": {
+      "number": "72",
+      "timestamp": "[00:04:31.920]",
+      "en": "is to let people know; you’re not too young.",
+      "zh": ""
+    },
+    "73": {
+      "number": "73",
+      "timestamp": "[00:04:36.060]",
+      "en": "That is a fear, that they’re too young.",
+      "zh": ""
+    },
+    "74": {
+      "number": "74",
+      "timestamp": "[00:04:38.260]",
+      "en": "No, you’re not too young. You are ready.",
+      "zh": ""
+    },
+    "75": {
+      "number": "75",
+      "timestamp": "[00:04:40.740]",
+      "en": "You can feel the energy in you for this.",
+      "zh": ""
+    },
+    "76": {
+      "number": "76",
+      "timestamp": "[00:04:43.910]",
+      "en": "And use that energy.",
+      "zh": ""
+    },
+    "77": {
+      "number": "77",
+      "timestamp": "[00:04:46.380]",
+      "en": "You’re not going to have that in the same way forever.",
+      "zh": ""
+    },
+    "78": {
+      "number": "78",
+      "timestamp": "[00:04:50.390]",
+      "en": "When you’ve been teaching for a long time, people often ask you, you know,",
+      "zh": ""
+    },
+    "79": {
+      "number": "79",
+      "timestamp": "[00:04:53.170]",
+      "en": "“Are your students different?” And for a long, long time I always said,",
+      "zh": ""
+    },
+    "80": {
+      "number": "80",
+      "timestamp": "[00:04:56.470]",
+      "en": "“No, they’re not really that much different.”",
+      "zh": ""
+    },
+    "81": {
+      "number": "81",
+      "timestamp": "[00:04:59.850]",
+      "en": "When I saw them become different, was in the financial crisis in 2008-2009.",
+      "zh": ""
+    },
+    "82": {
+      "number": "82",
+      "timestamp": "[00:05:09.550]",
+      "en": "Notre Dame families are mostly very secure, very well off.",
+      "zh": ""
+    },
+    "83": {
+      "number": "83",
+      "timestamp": "[00:05:14.080]",
+      "en": "But somehow, that financial downturn in 2009,",
+      "zh": ""
+    },
+    "84": {
+      "number": "84",
+      "timestamp": "[00:05:20.350]",
+      "en": "it embedded an anxiety about the future that my students never really had.",
+      "zh": ""
+    },
+    "85": {
+      "number": "85",
+      "timestamp": "[00:05:27.100]",
+      "en": "And now, the college students who are coming to us, having caught by osmosis,",
+      "zh": ""
+    },
+    "86": {
+      "number": "86",
+      "timestamp": "[00:05:35.420]",
+      "en": "the anxieties of their parents about their kids’ futures.",
+      "zh": ""
+    },
+    "87": {
+      "number": "87",
+      "timestamp": "[00:05:39.860]",
+      "en": "Now, this was completely unreal.",
+      "zh": ""
+    },
+    "88": {
+      "number": "88",
+      "timestamp": "[00:05:42.990]",
+      "en": "Notre Dame families were richer than ever,",
+      "zh": ""
+    },
+    "89": {
+      "number": "89",
+      "timestamp": "[00:05:45.570]",
+      "en": "and the childrens’ financial prospects were better than ever.",
+      "zh": ""
+    },
+    "90": {
+      "number": "90",
+      "timestamp": "[00:05:49.220]",
+      "en": "But that isn’t what’s at the heart of agency, is it?",
+      "zh": ""
+    },
+    "91": {
+      "number": "91",
+      "timestamp": "[00:05:53.880]",
+      "en": "It’s your self-conception.",
+      "zh": ""
+    },
+    "92": {
+      "number": "92",
+      "timestamp": "[00:05:56.350]",
+      "en": "And they were much more fearful about that.",
+      "zh": ""
+    },
+    "93": {
+      "number": "93",
+      "timestamp": "[00:06:01.980]",
+      "en": "So that anxiety,",
+      "zh": ""
+    },
+    "94": {
+      "number": "94",
+      "timestamp": "[00:06:05.540]",
+      "en": "gets layered on top of this fearful erotic agency.",
+      "zh": ""
+    },
+    "95": {
+      "number": "95",
+      "timestamp": "[00:06:11.530]",
+      "en": "The notion that there’s something not quite sophisticated or elite",
+      "zh": ""
+    },
+    "96": {
+      "number": "96",
+      "timestamp": "[00:06:15.500]",
+      "en": "about being a young man who, when he meets an attractive woman,",
+      "zh": ""
+    },
+    "97": {
+      "number": "97",
+      "timestamp": "[00:06:18.910]",
+      "en": "thinks of her as, she might be my wife.",
+      "zh": ""
+    },
+    "98": {
+      "number": "98",
+      "timestamp": "[00:06:21.820]",
+      "en": "Right.",
+      "zh": ""
+    },
+    "99": {
+      "number": "99",
+      "timestamp": "[00:06:22.980]",
+      "en": "Now, I don’t say that’s the thing you say on a first date.",
+      "zh": ""
+    },
+    "100": {
+      "number": "100",
+      "timestamp": "[00:06:28.650]",
+      "en": "Right.",
+      "zh": ""
+    },
+    "101": {
+      "number": "101",
+      "timestamp": "[00:06:29.380]",
+      "en": "Even that mentality is…",
+      "zh": ""
+    },
+    "102": {
+      "number": "102",
+      "timestamp": "[00:06:30.440]",
+      "en": "Yes. That’s a big thing in a human life.",
+      "zh": ""
+    },
+    "103": {
+      "number": "103",
+      "timestamp": "[00:06:34.560]",
+      "en": "That, that’s the way attraction presents itself to you.",
+      "zh": ""
+    },
+    "104": {
+      "number": "104",
+      "timestamp": "[00:06:39.060]",
+      "en": "That you’re finding a woman attractive, or a woman finding a young man attractive,",
+      "zh": ""
+    },
+    "105": {
+      "number": "105",
+      "timestamp": "[00:06:44.470]",
+      "en": "that presents itself to you as tapping into something very deep in your own powers.",
+      "zh": ""
+    },
+    "106": {
+      "number": "106",
+      "timestamp": "[00:06:49.920]",
+      "en": "That power to become that kind of a couple.",
+      "zh": ""
+    },
+    "107": {
+      "number": "107",
+      "timestamp": "[00:06:53.040]",
+      "en": "There’s an even more extreme version of men losing their erotic agency",
+      "zh": ""
+    },
+    "108": {
+      "number": "108",
+      "timestamp": "[00:06:57.930]",
+      "en": "that has culminated into the incel movement.",
+      "zh": ""
+    },
+    "109": {
+      "number": "109",
+      "timestamp": "[00:07:00.380]",
+      "en": "Are you familiar with this? The involuntary celibates?",
+      "zh": ""
+    },
+    "110": {
+      "number": "110",
+      "timestamp": "[00:07:03.800]",
+      "en": "Yeah. I’d rather not be aware of it, but you can’t really avoid it.",
+      "zh": ""
+    },
+    "111": {
+      "number": "111",
+      "timestamp": "[00:07:07.830]",
+      "en": "Yeah. It’s a huge… It truly is a movement.",
+      "zh": ""
+    },
+    "112": {
+      "number": "112",
+      "timestamp": "[00:07:09.630]",
+      "en": "And if you’re around intellectual high motive young men,",
+      "zh": ""
+    },
+    "113": {
+      "number": "113",
+      "timestamp": "[00:07:13.950]",
+      "en": "you are going to run into language you can tell is coming out of some of this.",
+      "zh": ""
+    },
+    "114": {
+      "number": "114",
+      "timestamp": "[00:07:18.240]",
+      "en": "Right. And so, of course, there’s been sexually frustrated men throughout history.",
+      "zh": ""
+    },
+    "115": {
+      "number": "115",
+      "timestamp": "[00:07:23.600]",
+      "en": "I think what makes this movement unique is three things.",
+      "zh": ""
+    },
+    "116": {
+      "number": "116",
+      "timestamp": "[00:07:27.200]",
+      "en": "Number one, is whereas before, some of them… It was embarrassing, right,",
+      "zh": ""
+    },
+    "117": {
+      "number": "117",
+      "timestamp": "[00:07:32.780]",
+      "en": "to not be able to win over a woman;",
+      "zh": ""
+    },
+    "118": {
+      "number": "118",
+      "timestamp": "[00:07:35.700]",
+      "en": "the incels take it as a badge, at the very least, and sometimes a badge of honor.",
+      "zh": ""
+    },
+    "119": {
+      "number": "119",
+      "timestamp": "[00:07:41.600]",
+      "en": "Number two, is that whereas before,",
+      "zh": ""
+    },
+    "120": {
+      "number": "120",
+      "timestamp": "[00:07:44.170]",
+      "en": "they might attribute their lack of success to individual issues,",
+      "zh": ""
+    },
+    "121": {
+      "number": "121",
+      "timestamp": "[00:07:48.300]",
+      "en": "but now, it’s taken a political and conspiratorial bend,",
+      "zh": ""
+    },
+    "122": {
+      "number": "122",
+      "timestamp": "[00:07:52.300]",
+      "en": "that what they call, ‘the Chads,’ the handsome men",
+      "zh": ""
+    },
+    "123": {
+      "number": "123",
+      "timestamp": "[00:07:55.080]",
+      "en": "and, ‘the Stacys,’ the beautiful women, are in some sense, conspiring.",
+      "zh": ""
+    },
+    "124": {
+      "number": "124",
+      "timestamp": "[00:07:58.410]",
+      "en": "The dating apps are making markets too liquid,",
+      "zh": ""
+    },
+    "125": {
+      "number": "125",
+      "timestamp": "[00:08:01.930]",
+      "en": "that there’s an active conspiracy, almost like 9-11.",
+      "zh": ""
+    },
+    "126": {
+      "number": "126",
+      "timestamp": "[00:08:07.040]",
+      "en": "And the third one, is the very fact that this is a movement to begin with.",
+      "zh": ""
+    },
+    "127": {
+      "number": "127",
+      "timestamp": "[00:08:11.780]",
+      "en": "That there’s a huge swathe of American, and I think",
+      "zh": ""
+    },
+    "128": {
+      "number": "128",
+      "timestamp": "[00:08:15.500]",
+      "en": "maybe even global young men, are involved in this circumstance.",
+      "zh": ""
+    },
+    "129": {
+      "number": "129",
+      "timestamp": "[00:08:21.100]",
+      "en": "So what do you make of that? And do you see that as",
+      "zh": ""
+    },
+    "130": {
+      "number": "130",
+      "timestamp": "[00:08:23.020]",
+      "en": "the further escalation of this loss of erotic power?",
+      "zh": ""
+    },
+    "131": {
+      "number": "131",
+      "timestamp": "[00:08:25.550]",
+      "en": "Yeah. The incel thing… Look, I am not a native inhabitant of the online world.",
+      "zh": ""
+    },
+    "132": {
+      "number": "132",
+      "timestamp": "[00:08:34.290]",
+      "en": "I only get it from talking to young men,",
+      "zh": ""
+    },
+    "133": {
+      "number": "133",
+      "timestamp": "[00:08:38.430]",
+      "en": "or reading Bronze Age Pervert and",
+      "zh": ""
+    },
+    "134": {
+      "number": "134",
+      "timestamp": "[00:08:41.690]",
+      "en": "finding out that young men actually do talk about living in the longhouse, right.",
+      "zh": ""
+    },
+    "135": {
+      "number": "135",
+      "timestamp": "[00:08:47.380]",
+      "en": "Which means there’s something a little comic about it to me.",
+      "zh": ""
+    },
+    "136": {
+      "number": "136",
+      "timestamp": "[00:08:52.080]",
+      "en": "Oh yeah, for sure. Yes.",
+      "zh": ""
+    },
+    "137": {
+      "number": "137",
+      "timestamp": "[00:08:54.250]",
+      "en": "But I think it deserves to be taken seriously,",
+      "zh": ""
+    },
+    "138": {
+      "number": "138",
+      "timestamp": "[00:08:58.700]",
+      "en": "because it hardens some young men in their sense",
+      "zh": ""
+    },
+    "139": {
+      "number": "139",
+      "timestamp": "[00:09:05.650]",
+      "en": "that the war between the sexes is a real war.",
+      "zh": ""
+    },
+    "140": {
+      "number": "140",
+      "timestamp": "[00:09:09.440]",
+      "en": "Yeah. Right.",
+      "zh": ""
+    },
+    "141": {
+      "number": "141",
+      "timestamp": "[00:09:10.390]",
+      "en": "And that’s a terrible place to live, of course.",
+      "zh": ""
+    },
+    "142": {
+      "number": "142",
+      "timestamp": "[00:09:14.650]",
+      "en": "That’s an awful place to live.",
+      "zh": ""
+    },
+    "143": {
+      "number": "143",
+      "timestamp": "[00:09:16.470]",
+      "en": "Now, young women have their own forms of this,",
+      "zh": ""
+    },
+    "144": {
+      "number": "144",
+      "timestamp": "[00:09:19.220]",
+      "en": "but the incel thing, that’s focused on men.",
+      "zh": ""
+    },
+    "145": {
+      "number": "145",
+      "timestamp": "[00:09:24.450]",
+      "en": "And it attracts a lot of very intelligent young men, right?",
+      "zh": ""
+    },
+    "146": {
+      "number": "146",
+      "timestamp": "[00:09:27.070]",
+      "en": "Oh, yes. Of course.",
+      "zh": ""
+    },
+    "147": {
+      "number": "147",
+      "timestamp": "[00:09:28.100]",
+      "en": "So when I talk to young men who’ve been influenced by these things,",
+      "zh": ""
+    },
+    "148": {
+      "number": "148",
+      "timestamp": "[00:09:36.600]",
+      "en": "I emphasize to them that when you’re still intellectually young,",
+      "zh": ""
+    },
+    "149": {
+      "number": "149",
+      "timestamp": "[00:09:42.350]",
+      "en": "one of the things you’re very attracted to is being smart.",
+      "zh": ""
+    },
+    "150": {
+      "number": "150",
+      "timestamp": "[00:09:46.850]",
+      "en": "And that’s quite a corrupting motive sometimes.",
+      "zh": ""
+    },
+    "151": {
+      "number": "151",
+      "timestamp": "[00:09:51.010]",
+      "en": "You have to help people get beyond the showoff-iness of that.",
+      "zh": ""
+    }
+  }
+}
